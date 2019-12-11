@@ -39,7 +39,6 @@ ExportedObj/
 *.booproj
 *.svd
 *.pdb
-*.psd
 *.mdb
 *.opendb
 *.VC.db
@@ -48,7 +47,6 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
-*.psd.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
